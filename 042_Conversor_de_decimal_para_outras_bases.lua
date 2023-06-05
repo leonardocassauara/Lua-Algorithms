@@ -12,7 +12,7 @@
                         5.1.5. para converter para as outras bases basta alterar o valor do divisor para a base e fazer alguns ajustes específicos
                 6. Imprimir resultado
 ]]
-function converterDecBinOctHex(numero, base)
+local function converterDecBinOctHex(numero, base)
     local resto = nil
     local resultado_invertido = {}
     local resultado = ""
