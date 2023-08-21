@@ -1,4 +1,11 @@
-# Repositorio-de-Codigos-em-Lua
+<h1>
+<div style="font-size: 24px;">
+    <a href="https://www.dio.me/">
+        <img align="center" width="30px" src="https://i.imgur.com/lnd7KNi.png">
+    </a>
+    <span>Repositório de Códigos em Lua</span>
+</div>
+</h1>
 
 **Registro de Estudos e Evolução.**
 
