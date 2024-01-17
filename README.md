@@ -1,12 +1,12 @@
 <h1>
 <div style="font-size: 24px;">
     <img align="center" width="30px" src="https://i.imgur.com/lnd7KNi.png">
-    <span>Repositório de Códigos em Lua</span>
+    Lua Algorithms
 </div>
 </h1>
 
-**Registro de Estudos e Evolução.**
+**Record of Studies and Evolution.**
 
-Este repositório tem o objetivo de armazenar os meus scripts em Lua, mostrando minha evolução no aprendizado da linguagem
+This repository aims to store my Lua scripts, showing my progress in learning the language.
 
-Ponto de partida: 15/05/2023
+Start Point: 15/05/2023
